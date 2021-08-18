@@ -131,13 +131,13 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Isabelle - Product Designer</title>
+      <title>Isabelle Charafeddine - Designer</title>
       <h1 style={headingStyles}>
         <span style={headingAccentStyles}>Isabelle Charafeddine</span>
 
       </h1>
       <p style={paragraphStyles}>
-      I'm Isabelle - a generalist product designer based in San Francisco. Currently at Plaid, I design solutions that help people connect their bank to apps - enabling an array of financial opportunities. Before that, I was at Earnin designing tools to help the underbanked accomplish their financial goals.
+      I'm Isabelle - a generalist product designer based in San Francisco. I just started a new role at Plaid.
       </p>
 
       <p style={paragraphStyles}>
